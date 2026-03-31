@@ -16,18 +16,23 @@ import { CookiePolicy } from './pages/CookiePolicy'
 type Page = 'home' | 'privacy' | 'terms' | 'cookies'
 
 function getPage(): Page {
-  const hash = window.location.hash
-  if (hash === '#/privacy-policy') return 'privacy'
-  if (hash === '#/terms-of-service') return 'terms'
-  if (hash === '#/cookie-policy') return 'cookies'
+  const path = window.location.pathname
+  if (path === '/privacy-policy') return 'privacy'
+  if (path === '/terms-of-service') return 'terms'
+  if (path === '/cookie-policy') return 'cookies'
   return 'home'
+}
+
+export function navigateTo(path: string) {
+  window.history.pushState({}, '', path)
+  window.dispatchEvent(new PopStateEvent('popstate'))
 }
 
 function App() {
   const [page, setPage] = useState<Page>(getPage)
 
   useEffect(() => {
-    const handleHashChange = () => {
+    const handleNav = () => {
       const newPage = getPage()
       setPage(newPage)
       if (newPage !== 'home') {
@@ -35,8 +40,8 @@ function App() {
       }
     }
 
-    window.addEventListener('hashchange', handleHashChange)
-    return () => window.removeEventListener('hashchange', handleHashChange)
+    window.addEventListener('popstate', handleNav)
+    return () => window.removeEventListener('popstate', handleNav)
   }, [])
 
   if (page === 'privacy') {

@@ -183,7 +183,7 @@ function TermsOfServiceFR() {
       <h2>9. Donnees personnelles et vie privee</h2>
       <p>
         La collecte et le traitement de vos donnees personnelles sont regis par notre{' '}
-        <a href="#/privacy-policy">Politique de Confidentialite</a>, qui fait partie integrante des
+        <a href="/privacy-policy">Politique de Confidentialite</a>, qui fait partie integrante des
         presentes CGU. En utilisant l'Application, vous reconnaissez avoir pris connaissance de cette
         politique.
       </p>
@@ -508,7 +508,7 @@ function TermsOfServiceEN() {
       <h2>9. Personal Data and Privacy</h2>
       <p>
         The collection and processing of your personal data is governed by our{' '}
-        <a href="#/privacy-policy">Privacy Policy</a>, which is an integral part of these Terms. By using
+        <a href="/privacy-policy">Privacy Policy</a>, which is an integral part of these Terms. By using
         the Application, you acknowledge that you have read this policy.
       </p>
 

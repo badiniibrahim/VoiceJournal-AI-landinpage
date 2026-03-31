@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import { navigateTo } from '../App'
 
 export function Footer() {
   const { t } = useTranslation()
@@ -11,9 +12,9 @@ export function Footer() {
   ]
 
   const legalLinks = [
-    { label: t('footer.privacyPolicy'), href: '#/privacy-policy' },
-    { label: t('footer.termsOfService'), href: '#/terms-of-service' },
-    { label: t('footer.cookiePolicy'), href: '#/cookie-policy' },
+    { label: t('footer.privacyPolicy'), href: '/privacy-policy' },
+    { label: t('footer.termsOfService'), href: '/terms-of-service' },
+    { label: t('footer.cookiePolicy'), href: '/cookie-policy' },
   ]
 
   const contactLinks = [
@@ -64,6 +65,10 @@ export function Footer() {
                 <li key={link.label}>
                   <a
                     href={link.href}
+                    onClick={(e) => {
+                      e.preventDefault()
+                      navigateTo(link.href)
+                    }}
                     className="text-sm text-text-muted hover:text-text-heading transition-colors"
                   >
                     {link.label}

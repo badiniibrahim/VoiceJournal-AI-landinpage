@@ -22,7 +22,7 @@ function CookiePolicyFR() {
       </p>
       <p>
         Cette politique doit etre lue en complement de notre{' '}
-        <a href="#/privacy-policy">Politique de Confidentialite</a>.
+        <a href="/privacy-policy">Politique de Confidentialite</a>.
       </p>
 
       <h2>2. Qu'est-ce qu'un cookie ?</h2>
@@ -216,7 +216,7 @@ function CookiePolicyEN() {
       </p>
       <p>
         This policy should be read in conjunction with our{' '}
-        <a href="#/privacy-policy">Privacy Policy</a>.
+        <a href="/privacy-policy">Privacy Policy</a>.
       </p>
 
       <h2>2. What are Cookies?</h2>

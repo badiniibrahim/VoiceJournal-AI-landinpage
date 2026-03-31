@@ -1,5 +1,21 @@
 import { ArrowLeft, Globe } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
+import { navigateTo } from '../App'
+
+function LegalLink({ href, children }: { href: string; children: React.ReactNode }) {
+  return (
+    <a
+      href={href}
+      onClick={(e) => {
+        e.preventDefault()
+        navigateTo(href)
+      }}
+      className="hover:text-text-heading transition-colors"
+    >
+      {children}
+    </a>
+  )
+}
 
 export function LegalLayout({ children }: { children: React.ReactNode }) {
   const { t, i18n } = useTranslation()
@@ -14,10 +30,10 @@ export function LegalLayout({ children }: { children: React.ReactNode }) {
       <header className="sticky top-0 z-50 bg-dark-bg/80 backdrop-blur-xl border-b border-border-subtle">
         <div className="max-w-4xl mx-auto px-6 h-16 flex items-center justify-between">
           <a
-            href="#"
+            href="/"
             onClick={(e) => {
               e.preventDefault()
-              window.location.hash = ''
+              navigateTo('/')
               window.scrollTo(0, 0)
             }}
             className="flex items-center gap-2 text-text-muted hover:text-text-heading transition-colors"
@@ -62,15 +78,9 @@ export function LegalLayout({ children }: { children: React.ReactNode }) {
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-text-muted">{t('footer.copyright')}</p>
           <div className="flex items-center gap-4 text-sm text-text-muted">
-            <a href="#/privacy-policy" className="hover:text-text-heading transition-colors">
-              {t('footer.privacyPolicy')}
-            </a>
-            <a href="#/terms-of-service" className="hover:text-text-heading transition-colors">
-              {t('footer.termsOfService')}
-            </a>
-            <a href="#/cookie-policy" className="hover:text-text-heading transition-colors">
-              {t('footer.cookiePolicy')}
-            </a>
+            <LegalLink href="/privacy-policy">{t('footer.privacyPolicy')}</LegalLink>
+            <LegalLink href="/terms-of-service">{t('footer.termsOfService')}</LegalLink>
+            <LegalLink href="/cookie-policy">{t('footer.cookiePolicy')}</LegalLink>
           </div>
         </div>
       </footer>
