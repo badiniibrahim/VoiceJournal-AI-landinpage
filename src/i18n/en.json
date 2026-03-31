@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How it works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "download": "Download"
+  },
+  "hero": {
+    "badge": "AI-Powered Voice Journal",
+    "title": "Your voice journal, ",
+    "titleHighlight": "powered by AI",
+    "subtitle": "Record your day in 2 minutes. AI analyzes your emotions, tracks your mood, and reveals patterns to help you understand yourself better.",
+    "users": "1,000+ users",
+    "rating": "4.8/5"
+  },
+  "features": {
+    "badge": "Features",
+    "title": "Everything you need to understand yourself",
+    "subtitle": "A complete toolkit for emotional self-awareness, powered by cutting-edge AI.",
+    "items": [
+      {
+        "title": "Voice Recording",
+        "description": "Record your thoughts in just 2 minutes. Sessions from 10 seconds to 10 minutes, captured in high-quality audio."
+      },
+      {
+        "title": "AI Emotion Analysis",
+        "description": "Powered by Gemini 2.0 Flash, your entries are analyzed for 6 core emotions with a mood score from 1 to 10."
+      },
+      {
+        "title": "Mood Tracking",
+        "description": "Visualize your emotional journey with 30-day graphs, radar charts, and an interactive mood calendar."
+      },
+      {
+        "title": "Weekly Insights",
+        "description": "Get AI-generated weekly reports with emotional patterns, trends, and personalized suggestions."
+      },
+      {
+        "title": "Badges & Gamification",
+        "description": "Unlock 11+ achievements, maintain streaks, and earn color themes as you build your journaling habit."
+      },
+      {
+        "title": "Daily Prompts",
+        "description": "30 guided questions to help you reflect deeper when you're not sure what to talk about."
+      }
+    ]
+  },
+  "howItWorks": {
+    "badge": "How It Works",
+    "title": "Simple as 1, 2, 3",
+    "subtitle": "From recording to insights in minutes. No effort required.",
+    "steps": [
+      {
+        "title": "Record",
+        "description": "Talk about your day for 2 minutes. No typing needed — just press record and speak naturally."
+      },
+      {
+        "title": "AI Analyzes",
+        "description": "Our AI transcribes your voice, detects emotions, assigns a mood score, and generates personalized insights."
+      },
+      {
+        "title": "Get Insights",
+        "description": "Track your emotional patterns over time with beautiful charts, weekly reports, and actionable suggestions."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "Loved by thousands",
+    "subtitle": "See what our community says about their journaling journey.",
+    "items": [
+      {
+        "name": "Sophie M.",
+        "role": "Yoga Teacher",
+        "text": "I've tried written journals for years but never stuck with them. Speaking feels so much more natural. The AI insights have helped me understand my anxiety triggers."
+      },
+      {
+        "name": "Thomas L.",
+        "role": "Software Engineer",
+        "text": "The mood tracking graphs are incredible. I can see exactly how work stress affects my weekends. It's like having a therapist in my pocket."
+      },
+      {
+        "name": "Camille R.",
+        "role": "Student",
+        "text": "The daily prompts are perfect when I don't know what to say. I've been journaling for 45 days straight — my longest streak ever!"
+      },
+      {
+        "name": "Marc D.",
+        "role": "Entrepreneur",
+        "text": "Weekly insights showed me a pattern I never noticed: my mood drops every Monday. Now I prep with a morning routine and it's made a huge difference."
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Pricing",
+    "title": "Simple, transparent pricing",
+    "subtitle": "Start for free. Upgrade when you're ready.",
+    "free": {
+      "name": "Free",
+      "price": "0",
+      "description": "Everything you need to start journaling.",
+      "cta": "Get Started",
+      "features": [
+        "3 entries per week",
+        "Basic emotion analysis",
+        "Daily prompts",
+        "Badges & streaks",
+        "Mood calendar"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "4.99",
+      "period": "/month",
+      "annualPrice": "29.99/year",
+      "annualSaving": "Save 50%",
+      "description": "Unlock the full power of AI insights.",
+      "cta": "Start Free Trial",
+      "popular": "Most Popular",
+      "features": [
+        "Unlimited entries",
+        "Advanced AI analysis",
+        "Weekly AI insights & patterns",
+        "Chat with your entries",
+        "Full dashboard & export",
+        "Priority support"
+      ]
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "subtitle": "Everything you need to know about VoiceJournal AI.",
+    "items": [
+      {
+        "question": "Is my data secure?",
+        "answer": "Absolutely. All your journal entries are stored securely on Firebase with end-to-end encryption. Only you can access your data — we never read, share, or sell your personal entries."
+      },
+      {
+        "question": "How does the AI analysis work?",
+        "answer": "We use Google's Gemini 2.0 Flash model to transcribe your voice, detect emotions (joy, sadness, anger, fear, surprise, disgust), and generate a mood score from 1-10. The AI also provides personalized insights and suggestions."
+      },
+      {
+        "question": "What languages are supported?",
+        "answer": "VoiceJournal AI currently supports French as the primary language for voice recording, transcription, and AI analysis. More languages are coming soon."
+      },
+      {
+        "question": "Can I cancel my subscription anytime?",
+        "answer": "Yes! You can cancel your Pro subscription at any time through the App Store or Google Play. You'll keep Pro access until the end of your billing period."
+      },
+      {
+        "question": "How long can my journal entries be?",
+        "answer": "Each recording session can be between 10 seconds and 10 minutes. We recommend 2-3 minutes for the best AI analysis. Most users find this is the sweet spot."
+      },
+      {
+        "question": "Is there a free trial?",
+        "answer": "The Free plan gives you 3 entries per week with basic emotion analysis, daily prompts, and badges — forever. When you upgrade to Pro, you also get a 7-day free trial to explore all premium features."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to understand ",
+    "titleHighlight": "yourself better",
+    "subtitle": "Join thousands of people who journal with their voice. Start for free today — no credit card required."
+  },
+  "store": {
+    "appStoreLabel": "Download on the",
+    "appStore": "App Store",
+    "googlePlayLabel": "Get it on",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "description": "Your AI-powered voice journal for emotional self-awareness.",
+    "product": "Product",
+    "legal": "Legal",
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy",
+    "support": "Support",
+    "copyright": "© 2026 VoiceJournal AI. All rights reserved.",
+    "tagline": "Made with love for your well-being."
+  }
+}

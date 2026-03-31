@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "download": "Télécharger"
+  },
+  "hero": {
+    "badge": "Journal vocal propulsé par l'IA",
+    "title": "Votre journal vocal, ",
+    "titleHighlight": "propulsé par l'IA",
+    "subtitle": "Enregistrez votre journée en 2 minutes. L'IA analyse vos émotions, suit votre humeur et révèle des tendances pour mieux vous comprendre.",
+    "users": "1 000+ utilisateurs",
+    "rating": "4.8/5"
+  },
+  "features": {
+    "badge": "Fonctionnalités",
+    "title": "Tout ce qu'il faut pour mieux se comprendre",
+    "subtitle": "Une boîte à outils complète pour la conscience émotionnelle, propulsée par une IA de pointe.",
+    "items": [
+      {
+        "title": "Enregistrement vocal",
+        "description": "Enregistrez vos pensées en seulement 2 minutes. Sessions de 10 secondes à 10 minutes, capturées en audio haute qualité."
+      },
+      {
+        "title": "Analyse des émotions par IA",
+        "description": "Propulsé par Gemini 2.0 Flash, vos entrées sont analysées pour 6 émotions clés avec un score d'humeur de 1 à 10."
+      },
+      {
+        "title": "Suivi de l'humeur",
+        "description": "Visualisez votre parcours émotionnel avec des graphiques sur 30 jours, des diagrammes radar et un calendrier interactif."
+      },
+      {
+        "title": "Insights hebdomadaires",
+        "description": "Recevez des rapports IA hebdomadaires avec des tendances émotionnelles et des suggestions personnalisées."
+      },
+      {
+        "title": "Badges & Gamification",
+        "description": "Débloquez 11+ récompenses, maintenez vos séries et gagnez des thèmes de couleurs en développant votre habitude."
+      },
+      {
+        "title": "Questions du jour",
+        "description": "30 questions guidées pour vous aider à réfléchir plus profondément quand vous ne savez pas quoi dire."
+      }
+    ]
+  },
+  "howItWorks": {
+    "badge": "Comment ça marche",
+    "title": "Simple comme 1, 2, 3",
+    "subtitle": "De l'enregistrement aux insights en quelques minutes. Aucun effort requis.",
+    "steps": [
+      {
+        "title": "Enregistrez",
+        "description": "Parlez de votre journée pendant 2 minutes. Pas besoin de taper — appuyez sur enregistrer et parlez naturellement."
+      },
+      {
+        "title": "L'IA analyse",
+        "description": "Notre IA transcrit votre voix, détecte les émotions, attribue un score d'humeur et génère des insights personnalisés."
+      },
+      {
+        "title": "Obtenez des insights",
+        "description": "Suivez vos tendances émotionnelles au fil du temps avec de beaux graphiques, des rapports hebdomadaires et des suggestions concrètes."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Témoignages",
+    "title": "Adoré par des milliers d'utilisateurs",
+    "subtitle": "Découvrez ce que notre communauté dit de son parcours de journaling.",
+    "items": [
+      {
+        "name": "Sophie M.",
+        "role": "Professeure de yoga",
+        "text": "J'ai essayé les journaux écrits pendant des années sans jamais m'y tenir. Parler est tellement plus naturel. Les insights IA m'ont aidée à comprendre mes déclencheurs d'anxiété."
+      },
+      {
+        "name": "Thomas L.",
+        "role": "Développeur",
+        "text": "Les graphiques de suivi d'humeur sont incroyables. Je vois exactement comment le stress au travail affecte mes weekends. C'est comme avoir un psy dans ma poche."
+      },
+      {
+        "name": "Camille R.",
+        "role": "Étudiante",
+        "text": "Les questions du jour sont parfaites quand je ne sais pas quoi dire. Je journal depuis 45 jours d'affilée — ma plus longue série !"
+      },
+      {
+        "name": "Marc D.",
+        "role": "Entrepreneur",
+        "text": "Les insights hebdomadaires m'ont révélé une tendance que je n'avais jamais remarquée : mon humeur baisse chaque lundi. Maintenant je me prépare avec une routine matinale."
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Tarifs",
+    "title": "Des tarifs simples et transparents",
+    "subtitle": "Commencez gratuitement. Passez à Pro quand vous êtes prêt.",
+    "free": {
+      "name": "Gratuit",
+      "price": "0",
+      "description": "Tout ce qu'il faut pour commencer à journaler.",
+      "cta": "Commencer",
+      "features": [
+        "3 entrées par semaine",
+        "Analyse basique des émotions",
+        "Questions du jour",
+        "Badges & séries",
+        "Calendrier d'humeur"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "4.99",
+      "period": "/mois",
+      "annualPrice": "29.99/an",
+      "annualSaving": "-50%",
+      "description": "Libérez toute la puissance des insights IA.",
+      "cta": "Essai gratuit",
+      "popular": "Le plus populaire",
+      "features": [
+        "Entrées illimitées",
+        "Analyse IA avancée",
+        "Insights & tendances hebdo",
+        "Discutez avec vos entrées",
+        "Dashboard complet & export",
+        "Support prioritaire"
+      ]
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Questions fréquentes",
+    "subtitle": "Tout ce que vous devez savoir sur VoiceJournal AI.",
+    "items": [
+      {
+        "question": "Mes données sont-elles sécurisées ?",
+        "answer": "Absolument. Toutes vos entrées sont stockées de manière sécurisée sur Firebase avec chiffrement. Vous seul pouvez accéder à vos données — nous ne lisons, ne partageons et ne vendons jamais vos entrées personnelles."
+      },
+      {
+        "question": "Comment fonctionne l'analyse IA ?",
+        "answer": "Nous utilisons le modèle Gemini 2.0 Flash de Google pour transcrire votre voix, détecter les émotions (joie, tristesse, colère, peur, surprise, dégoût) et générer un score d'humeur de 1 à 10. L'IA fournit également des insights et suggestions personnalisés."
+      },
+      {
+        "question": "Quelles langues sont supportées ?",
+        "answer": "VoiceJournal AI supporte actuellement le français comme langue principale pour l'enregistrement vocal, la transcription et l'analyse IA. D'autres langues arrivent bientôt."
+      },
+      {
+        "question": "Puis-je annuler mon abonnement à tout moment ?",
+        "answer": "Oui ! Vous pouvez annuler votre abonnement Pro à tout moment via l'App Store ou Google Play. Vous conserverez l'accès Pro jusqu'à la fin de votre période de facturation."
+      },
+      {
+        "question": "Quelle est la durée maximale d'une entrée ?",
+        "answer": "Chaque session d'enregistrement peut durer entre 10 secondes et 10 minutes. Nous recommandons 2-3 minutes pour la meilleure analyse IA. La plupart des utilisateurs trouvent que c'est idéal."
+      },
+      {
+        "question": "Y a-t-il un essai gratuit ?",
+        "answer": "Le plan Gratuit vous donne 3 entrées par semaine avec analyse basique des émotions, questions du jour et badges — pour toujours. En passant à Pro, vous bénéficiez aussi d'un essai gratuit de 7 jours."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à mieux ",
+    "titleHighlight": "vous comprendre",
+    "subtitle": "Rejoignez des milliers de personnes qui journalent avec leur voix. Commencez gratuitement — aucune carte bancaire requise."
+  },
+  "store": {
+    "appStoreLabel": "Télécharger sur l'",
+    "appStore": "App Store",
+    "googlePlayLabel": "Disponible sur",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "description": "Votre journal vocal propulsé par l'IA pour la conscience émotionnelle.",
+    "product": "Produit",
+    "legal": "Légal",
+    "contact": "Contact",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "cookiePolicy": "Politique des cookies",
+    "support": "Support",
+    "copyright": "© 2026 VoiceJournal AI. Tous droits réservés.",
+    "tagline": "Fait avec amour pour votre bien-être."
+  }
+}
