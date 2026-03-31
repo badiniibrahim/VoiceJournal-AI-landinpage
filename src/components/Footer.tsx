@@ -18,7 +18,7 @@ export function Footer() {
   ]
 
   const contactLinks = [
-    { label: t('footer.support'), href: 'mailto:support@voicejournalai.com' },
+    { label: t('footer.support'), href: 'mailto:support@voicejournalai.fr' },
     { label: 'Twitter', href: '#' },
     { label: 'Instagram', href: '#' },
   ]

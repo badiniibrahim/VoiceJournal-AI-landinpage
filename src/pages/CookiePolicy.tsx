@@ -194,7 +194,7 @@ function CookiePolicyFR() {
         technologies de suivi, veuillez nous contacter :
       </p>
       <ul>
-        <li><strong>Email :</strong> support@voicejournalai.com</li>
+        <li><strong>Email :</strong> support@voicejournalai.fr</li>
         <li><strong>Responsable :</strong> SAWADOGO Badini Ibrahim</li>
         <li><strong>Adresse :</strong> Cergy, France</li>
       </ul>
@@ -381,7 +381,7 @@ function CookiePolicyEN() {
         contact us:
       </p>
       <ul>
-        <li><strong>Email:</strong> support@voicejournalai.com</li>
+        <li><strong>Email:</strong> support@voicejournalai.fr</li>
         <li><strong>Controller:</strong> SAWADOGO Badini Ibrahim</li>
         <li><strong>Address:</strong> Cergy, France</li>
       </ul>

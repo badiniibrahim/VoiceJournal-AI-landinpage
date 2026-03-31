@@ -37,7 +37,7 @@ function PrivacyPolicyFR() {
       <ul>
         <li><strong>Nom :</strong> SAWADOGO Badini Ibrahim</li>
         <li><strong>Adresse :</strong> Cergy, France</li>
-        <li><strong>Email :</strong> support@voicejournalai.com</li>
+        <li><strong>Email :</strong> support@voicejournalai.fr</li>
       </ul>
       <p>
         Pour toute question relative a la protection de vos donnees personnelles, vous pouvez nous contacter
@@ -301,7 +301,7 @@ function PrivacyPolicyFR() {
         <li><strong>Droit de definir des directives post-mortem :</strong> Definir des directives relatives a la conservation, l'effacement et la communication de vos donnees apres votre deces (droit francais).</li>
       </ul>
       <p>
-        Pour exercer ces droits, contactez-nous a : <strong>support@voicejournalai.com</strong>. Nous
+        Pour exercer ces droits, contactez-nous a : <strong>support@voicejournalai.fr</strong>. Nous
         repondrons dans un delai d'un mois. Ce delai peut etre prolonge de deux mois en cas de demandes
         complexes ou nombreuses.
       </p>
@@ -338,7 +338,7 @@ function PrivacyPolicyFR() {
       </p>
       <p>
         Si vous etes parent ou tuteur et que vous pensez que votre enfant nous a fourni des donnees
-        personnelles, veuillez nous contacter immediatement a support@voicejournalai.com.
+        personnelles, veuillez nous contacter immediatement a support@voicejournalai.fr.
       </p>
 
       <h2>13. Avertissement relatif a la sante</h2>
@@ -372,7 +372,7 @@ function PrivacyPolicyFR() {
         personnelles, veuillez nous contacter :
       </p>
       <ul>
-        <li><strong>Email :</strong> support@voicejournalai.com</li>
+        <li><strong>Email :</strong> support@voicejournalai.fr</li>
         <li><strong>Responsable du traitement :</strong> SAWADOGO Badini Ibrahim</li>
         <li><strong>Adresse :</strong> Cergy, France</li>
       </ul>
@@ -409,7 +409,7 @@ function PrivacyPolicyEN() {
       <ul>
         <li><strong>Name:</strong> SAWADOGO Badini Ibrahim</li>
         <li><strong>Address:</strong> Cergy, France</li>
-        <li><strong>Email:</strong> support@voicejournalai.com</li>
+        <li><strong>Email:</strong> support@voicejournalai.fr</li>
       </ul>
       <p>
         For any questions regarding the protection of your personal data, you may contact us at the
@@ -671,7 +671,7 @@ function PrivacyPolicyEN() {
         <li><strong>Right to define post-mortem directives:</strong> Define directives regarding the retention, deletion, and communication of your data after your death (French law).</li>
       </ul>
       <p>
-        To exercise these rights, contact us at: <strong>support@voicejournalai.com</strong>. We will
+        To exercise these rights, contact us at: <strong>support@voicejournalai.fr</strong>. We will
         respond within one month. This period may be extended by two months for complex or numerous
         requests.
       </p>
@@ -705,7 +705,7 @@ function PrivacyPolicyEN() {
       </p>
       <p>
         If you are a parent or guardian and believe your child has provided us with personal data,
-        please contact us immediately at support@voicejournalai.com.
+        please contact us immediately at support@voicejournalai.fr.
       </p>
 
       <h2>13. Health Disclaimer</h2>
@@ -738,7 +738,7 @@ function PrivacyPolicyEN() {
         contact us:
       </p>
       <ul>
-        <li><strong>Email:</strong> support@voicejournalai.com</li>
+        <li><strong>Email:</strong> support@voicejournalai.fr</li>
         <li><strong>Data Controller:</strong> SAWADOGO Badini Ibrahim</li>
         <li><strong>Address:</strong> Cergy, France</li>
       </ul>

@@ -68,7 +68,7 @@ function TermsOfServiceFR() {
       <p>
         L'Utilisateur est seul responsable de la confidentialite de ses identifiants de connexion et de
         toutes les activites effectuees sous son compte. En cas d'utilisation non autorisee de votre compte,
-        vous devez nous en informer immediatement a support@voicejournalai.com.
+        vous devez nous en informer immediatement a support@voicejournalai.fr.
       </p>
       <h3>4.3. Conditions d'age</h3>
       <p>
@@ -253,7 +253,7 @@ function TermsOfServiceFR() {
       <h3>14.1. Par l'Utilisateur</h3>
       <p>
         L'Utilisateur peut resilier son compte a tout moment en supprimant son compte depuis les
-        parametres de l'Application ou en contactant support@voicejournalai.com. La suppression du
+        parametres de l'Application ou en contactant support@voicejournalai.fr. La suppression du
         compte entraine l'effacement de toutes les donnees personnelles dans un delai de 30 jours,
         sous reserve des obligations legales de conservation.
       </p>
@@ -294,7 +294,7 @@ function TermsOfServiceFR() {
       <p>
         Conformement aux articles L611-1 et suivants du Code de la consommation, en cas de litige,
         l'Utilisateur peut recourir gratuitement au service de mediation de la consommation. Le mediateur
-        de la consommation competent sera communique sur demande a support@voicejournalai.com.
+        de la consommation competent sera communique sur demande a support@voicejournalai.fr.
       </p>
       <p>
         L'Utilisateur peut egalement utiliser la plateforme europeenne de reglement en ligne des litiges :{' '}
@@ -330,7 +330,7 @@ function TermsOfServiceFR() {
       <h2>18. Contact</h2>
       <p>Pour toute question relative aux presentes CGU, veuillez nous contacter :</p>
       <ul>
-        <li><strong>Email :</strong> support@voicejournalai.com</li>
+        <li><strong>Email :</strong> support@voicejournalai.fr</li>
         <li><strong>Editeur :</strong> SAWADOGO Badini Ibrahim</li>
         <li><strong>Adresse :</strong> Cergy, France</li>
       </ul>
@@ -397,7 +397,7 @@ function TermsOfServiceEN() {
       <p>
         The User is solely responsible for the confidentiality of their login credentials and all
         activities carried out under their account. In case of unauthorized use of your account, you
-        must notify us immediately at support@voicejournalai.com.
+        must notify us immediately at support@voicejournalai.fr.
       </p>
       <h3>4.3. Age Requirements</h3>
       <p>
@@ -575,7 +575,7 @@ function TermsOfServiceEN() {
       <h3>14.1. By the User</h3>
       <p>
         The User may terminate their account at any time by deleting their account through the
-        Application settings or by contacting support@voicejournalai.com. Account deletion results in
+        Application settings or by contacting support@voicejournalai.fr. Account deletion results in
         erasure of all personal data within 30 days, subject to legal retention obligations.
       </p>
       <h3>14.2. By the Publisher</h3>
@@ -613,7 +613,7 @@ function TermsOfServiceEN() {
       <p>
         In accordance with French consumer law, in the event of a dispute, the User may access free
         consumer mediation services. The competent consumer mediator will be provided upon request at
-        support@voicejournalai.com.
+        support@voicejournalai.fr.
       </p>
       <p>
         The User may also use the European Online Dispute Resolution platform:{' '}
@@ -649,7 +649,7 @@ function TermsOfServiceEN() {
       <h2>18. Contact</h2>
       <p>For any questions regarding these Terms, please contact us:</p>
       <ul>
-        <li><strong>Email:</strong> support@voicejournalai.com</li>
+        <li><strong>Email:</strong> support@voicejournalai.fr</li>
         <li><strong>Publisher:</strong> SAWADOGO Badini Ibrahim</li>
         <li><strong>Address:</strong> Cergy, France</li>
       </ul>
