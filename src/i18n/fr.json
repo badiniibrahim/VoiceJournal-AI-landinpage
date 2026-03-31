@@ -7,9 +7,9 @@
     "download": "Télécharger"
   },
   "hero": {
-    "badge": "Journal vocal propulsé par l'IA",
+    "badge": "Journal vocal assisté par l'IA",
     "title": "Votre journal vocal, ",
-    "titleHighlight": "propulsé par l'IA",
+    "titleHighlight": "assisté par l'IA",
     "subtitle": "Enregistrez votre journée en 2 minutes. L'IA analyse vos émotions, suit votre humeur et révèle des tendances pour mieux vous comprendre.",
     "users": "1 000+ utilisateurs",
     "rating": "4.8/5"
@@ -17,7 +17,7 @@
   "features": {
     "badge": "Fonctionnalités",
     "title": "Tout ce qu'il faut pour mieux se comprendre",
-    "subtitle": "Une boîte à outils complète pour la conscience émotionnelle, propulsée par une IA de pointe.",
+    "subtitle": "Une boîte à outils complète pour la conscience émotionnelle, assistée par une IA de pointe.",
     "items": [
       {
         "title": "Enregistrement vocal",
@@ -25,7 +25,7 @@
       },
       {
         "title": "Analyse des émotions par IA",
-        "description": "Propulsé par Gemini 2.0 Flash, vos entrées sont analysées pour 6 émotions clés avec un score d'humeur de 1 à 10."
+        "description": "Grâce à Gemini 2.0 Flash, vos entrées sont analysées pour 6 émotions clés avec un score d'humeur de 1 à 10."
       },
       {
         "title": "Suivi de l'humeur",
@@ -170,7 +170,7 @@
     "googlePlay": "Google Play"
   },
   "footer": {
-    "description": "Votre journal vocal propulsé par l'IA pour la conscience émotionnelle.",
+    "description": "Votre journal vocal assisté par l'IA pour la conscience émotionnelle.",
     "product": "Produit",
     "legal": "Légal",
     "contact": "Contact",
