@@ -646,6 +646,7 @@ function PrivacyPolicyEN() {
 
       <h3>3.5. Technical and Analytics Data</h3>
       <ul>
+        <li>Device type and model, operating system and version</li>
         <li>IP address (anonymized)</li>
         <li>
           Application performance data (crashes, load times) via Firebase
