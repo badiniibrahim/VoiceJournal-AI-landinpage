@@ -11,7 +11,9 @@ export function StoreButtons({ className = '' }: StoreButtonsProps) {
   return (
     <div className={`flex flex-col sm:flex-row gap-4 ${className}`}>
       <a
-        href="#"
+        href="https://apps.apple.com/us/app/voice-journal-ai/id6761409957"
+        target="_blank"
+        rel="noopener noreferrer"
         className="inline-flex items-center justify-center gap-3 px-6 py-3.5 rounded-xl bg-white text-dark-bg font-semibold text-sm hover:bg-white/90 transition-all hover:scale-105"
       >
         <Apple className="w-5 h-5" />
